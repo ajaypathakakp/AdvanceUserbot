@@ -1,4 +1,7 @@
-Made by Ajay Pathak
+Userbot by DraxCommunity
+Modified for BeinganInfluencer
+
+Note: This Userbot is modified for Influencers and Telegram creators only. Not for regular usage
 # Installing
 Join https://t.me/XtraTgBot for updates and tuts
 ### The Easy Way
