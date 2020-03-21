@@ -1,5 +1,6 @@
 Userbot by DraxCommunity
-Modified for BeinganInfluencer
+
+Modified by BeinganInfluencer
 
 Note: This Userbot is modified for Influencers and Telegram creators only. Not for regular usage
 # Installing
